@@ -8,7 +8,7 @@ Pictures were recieved using an RTL-SDR dongle (no amplifiers or filters used) a
 
 <img src="/pics/building.JPG">
 
-<img src="/pics/assembled.PNG">
+<img src="/pics/assembled_2.PNG">
 
 ## Weather Sat Pics!
 
